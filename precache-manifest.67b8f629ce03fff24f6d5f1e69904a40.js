@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3bd7cf314e32d2a3b2a63a0afab8d5b",
+    "revision": "50fd862c2653fb7c2279d032feb3a630",
     "url": "​https://hosamf1992.github.io/Weather-App​/index.html"
   },
   {
-    "revision": "f51ba60604725e16efa2",
+    "revision": "59b410a727c7a9cb0dbf",
     "url": "​https://hosamf1992.github.io/Weather-App​/static/css/main.a09bae5c.chunk.css"
   },
   {
-    "revision": "dca85742857f83972562",
-    "url": "​https://hosamf1992.github.io/Weather-App​/static/js/2.1e69c620.chunk.js"
+    "revision": "d691708d794f597287c8",
+    "url": "​https://hosamf1992.github.io/Weather-App​/static/js/2.bbbf4b97.chunk.js"
   },
   {
-    "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "​https://hosamf1992.github.io/Weather-App​/static/js/2.1e69c620.chunk.js.LICENSE"
+    "revision": "84a2a7a390df1ac99fa4fadf23155e60",
+    "url": "​https://hosamf1992.github.io/Weather-App​/static/js/2.bbbf4b97.chunk.js.LICENSE"
   },
   {
-    "revision": "f51ba60604725e16efa2",
-    "url": "​https://hosamf1992.github.io/Weather-App​/static/js/main.819c2c57.chunk.js"
+    "revision": "59b410a727c7a9cb0dbf",
+    "url": "​https://hosamf1992.github.io/Weather-App​/static/js/main.aa9b2966.chunk.js"
   },
   {
     "revision": "147fac732d9075b6753f",
