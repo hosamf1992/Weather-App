@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://hosamf1992.github.io/Weather-App/static/css/main.a09bae5c.chunk.css",
-    "main.js": "https://hosamf1992.github.io/Weather-App/static/js/main.aa9b2966.chunk.js",
-    "main.js.map": "https://hosamf1992.github.io/Weather-App/static/js/main.aa9b2966.chunk.js.map",
-    "runtime-main.js": "https://hosamf1992.github.io/Weather-App/static/js/runtime-main.41f17e94.js",
-    "runtime-main.js.map": "https://hosamf1992.github.io/Weather-App/static/js/runtime-main.41f17e94.js.map",
-    "static/js/2.bbbf4b97.chunk.js": "https://hosamf1992.github.io/Weather-App/static/js/2.bbbf4b97.chunk.js",
-    "static/js/2.bbbf4b97.chunk.js.map": "https://hosamf1992.github.io/Weather-App/static/js/2.bbbf4b97.chunk.js.map",
-    "index.html": "https://hosamf1992.github.io/Weather-App/index.html",
-    "precache-manifest.67b8f629ce03fff24f6d5f1e69904a40.js": "https://hosamf1992.github.io/Weather-App/precache-manifest.67b8f629ce03fff24f6d5f1e69904a40.js",
-    "service-worker.js": "https://hosamf1992.github.io/Weather-App/service-worker.js",
-    "static/css/main.a09bae5c.chunk.css.map": "https://hosamf1992.github.io/Weather-App/static/css/main.a09bae5c.chunk.css.map",
-    "static/js/2.bbbf4b97.chunk.js.LICENSE": "https://hosamf1992.github.io/Weather-App/static/js/2.bbbf4b97.chunk.js.LICENSE",
-    "static/media/logo.svg": "https://hosamf1992.github.io/Weather-App/static/media/logo.5d5d9eef.svg"
+    "main.css": "​https://hosamf1992.github.io/Weather-App​/static/css/main.5f6d6746.chunk.css",
+    "main.js": "​https://hosamf1992.github.io/Weather-App​/static/js/main.d7462a92.chunk.js",
+    "main.js.map": "​https://hosamf1992.github.io/Weather-App​/static/js/main.d7462a92.chunk.js.map",
+    "runtime-main.js": "​https://hosamf1992.github.io/Weather-App​/static/js/runtime-main.41f17e94.js",
+    "runtime-main.js.map": "​https://hosamf1992.github.io/Weather-App​/static/js/runtime-main.41f17e94.js.map",
+    "static/js/2.15af5e11.chunk.js": "​https://hosamf1992.github.io/Weather-App​/static/js/2.15af5e11.chunk.js",
+    "static/js/2.15af5e11.chunk.js.map": "​https://hosamf1992.github.io/Weather-App​/static/js/2.15af5e11.chunk.js.map",
+    "index.html": "​https://hosamf1992.github.io/Weather-App​/index.html",
+    "precache-manifest.2ec4f4954fb4a0a353f06ebb352b8c96.js": "​https://hosamf1992.github.io/Weather-App​/precache-manifest.2ec4f4954fb4a0a353f06ebb352b8c96.js",
+    "service-worker.js": "​https://hosamf1992.github.io/Weather-App​/service-worker.js",
+    "static/css/main.5f6d6746.chunk.css.map": "​https://hosamf1992.github.io/Weather-App​/static/css/main.5f6d6746.chunk.css.map",
+    "static/js/2.15af5e11.chunk.js.LICENSE": "​https://hosamf1992.github.io/Weather-App​/static/js/2.15af5e11.chunk.js.LICENSE",
+    "static/media/logo.svg": "​https://hosamf1992.github.io/Weather-App​/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.41f17e94.js",
-    "static/js/2.bbbf4b97.chunk.js",
-    "static/css/main.a09bae5c.chunk.css",
-    "static/js/main.aa9b2966.chunk.js"
+    "static/js/2.15af5e11.chunk.js",
+    "static/css/main.5f6d6746.chunk.css",
+    "static/js/main.d7462a92.chunk.js"
   ]
 }
